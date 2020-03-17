@@ -2,7 +2,7 @@
 """
 Created on Mon Mar 16 10:09:04 2020
 
-@author: DigaoSuplementos
+@author: Rodrigo Bernardo Medeiros
 """
 
 def two_sum(numbers,target):
